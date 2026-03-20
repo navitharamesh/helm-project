@@ -3,23 +3,23 @@ entries:
   aqua-nova:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2026-03-20T07:53:33.3988094+05:30"
+    created: "2026-03-20T08:21:37.9636542+05:30"
     description: Aqua Nova Ocean Explorer
     digest: 6f341680e66312643cc48158e0e772200269e6f81c2811843510a0f3965a5961
     name: aqua-nova
     type: application
     urls:
-    - aqua-nova-0.1.0.tgz
+    - https://navitharamesh.github.io/helm-project/aqua-nova-0.1.0.tgz
     version: 0.1.0
   neural-portfolio:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2026-03-20T07:53:33.3993375+05:30"
+    created: "2026-03-20T08:21:37.9685267+05:30"
     description: Neural Digital Portfolio
     digest: fd9fbea8be88a7dce2ae75781a14262a3302cda149167af2f13418071348fdf0
     name: neural-portfolio
     type: application
     urls:
-    - neural-portfolio-0.1.0.tgz
+    - https://navitharamesh.github.io/helm-project/neural-portfolio-0.1.0.tgz
     version: 0.1.0
-generated: "2026-03-20T07:53:33.3956253+05:30"
+generated: "2026-03-20T08:21:37.9571172+05:30"
